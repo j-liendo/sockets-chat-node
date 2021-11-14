@@ -1,7 +1,7 @@
 # Sockets chat
 
 Typing with Node, sockets chat is local server that accept users with usernames
-***
+
 ## **Commands**
 
 ## Start server
